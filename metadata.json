@@ -1,0 +1,5 @@
+{
+  "name": "Internship Recommender",
+  "description": "A sophisticated fuzzy-logic based internship recommendation engine featuring an Apple-inspired dark UI, interactive visualizations, and dual-score ranking metrics.",
+  "requestFramePermissions": []
+}
